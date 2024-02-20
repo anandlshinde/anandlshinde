@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **anandlshinde/anandlshinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi everyone, I'm Anand Shinde! 👋
+
+Software development is my profession.
+
+I'm a Software Engineer.
+
+🔭 I’m working on Java and Spring Boot microservices with event-driven applications.
+
+🌱 I’m currently learning web development (JavaScript and ReactJS).
