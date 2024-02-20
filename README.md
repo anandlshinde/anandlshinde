@@ -18,6 +18,6 @@ Software development is my profession.
 
 I'm a Software Engineer.
 
-🔭 I’m working on Java and Spring Boot microservices with event-driven applications.
+🔭 I’m working on Java and Spring Boot, microservices with event-driven applications.
 
 🌱 I’m currently learning web development (JavaScript and ReactJS).
