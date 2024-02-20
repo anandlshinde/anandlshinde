@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 Hi everyone, I'm Anand Shinde! 👋
 
-Software development is my profession.
+**Software development is my profession.
 
-I'm a Software Engineer.
+I'm a Software Engineer.**
 
 🔭 I’m working on Java and Spring Boot, microservices with event-driven applications.
 
