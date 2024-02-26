@@ -24,6 +24,7 @@ I'm a Software Engineer.
 -->
 
 Software development is my profession. I have over 8+ years of Application Development experience working in fast-paced and deadline-oriented environments.
+
 Skills Set: Java, Spring Boot, Microservices, Apache Kafka, AWS, SQL, Dev-Ops 
 <!-- Strength: Passionate about problem-solving challenges, research and development, deep dive into facts and programming
 Strong background in coding and development, design and requirement analysis
